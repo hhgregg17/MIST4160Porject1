@@ -5,11 +5,12 @@ Correlated Subquery
 
 ## Team Members:
 
-1. 
+1. Spencer Fox [@hhgregg17](https://www.github.com/hhgregg17)
 2. 
 3. 
 4. 
 5. 
+6. 
 
 ## Overview:
 
