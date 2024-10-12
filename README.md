@@ -59,3 +59,61 @@ Lastly there is a many-to-many relationship between 'Coach' and 'Player' via wea
 ![Screenshot 2024-10-04 135803](https://github.com/user-attachments/assets/d5a6aade-4e96-469a-a08d-7439a8bb0f12)
 
 ![Screenshot 2024-10-04 135819](https://github.com/user-attachments/assets/3b5d8265-f34b-410a-a78f-e9c97a5e8a80)
+
+## Queries:
+
+
+1. Query 1 gives us the number of assists and average points scored per game while having more than 5 assists and over an average of 20 points.
+
+![image](https://github.com/user-attachments/assets/4fde7824-b62a-478a-921c-d41965f8740d)
+
+These results allows stats analytics determine who are top scorers in the league, this helps with individual player rankings.
+
+2. Query 2 gives us the total games the lions have won.
+
+![image](https://github.com/user-attachments/assets/d6905097-dee4-428a-ac0f-4165e0374b1c)
+
+This query can be useful to filter down the games where the lions have performed well as well as seeing how many points were scored and allowed.
+
+3. Query 3 gives us the name of a coach, name of their team, and their sart and end date for the team they coached for with the restictions being they coached for more than 10 years and have at least 2 champ wins.
+
+![image](https://github.com/user-attachments/assets/274b266f-f11e-4533-9a8a-07cdee96f7b8)
+
+This query gives us the best, most experienced coaches in the league.
+
+4. Query 4 gives us player name and jersey number of players whos position are Forward as well as being injured.
+
+![image](https://github.com/user-attachments/assets/72a5ef54-22c1-408f-9586-852ac21bbb0f)
+
+This query is useful for that it gives us players that may have an injury in the near future, since those who have been injured in the past are more likly to have problems later on.
+
+5. Query 5 givs us the first and last name of players, when they were transferred and to what team they went to.
+
+![image](https://github.com/user-attachments/assets/ac0e9bf8-d63d-45d5-a18f-33e0346d4873)
+
+This query grants us insight of where and when players are getting tranferred, since contracts are private we can only make inferences on what happens behind the scenes.
+
+6. Query 6 selects players first and last name, team, location, and calculates a point ratio and is then ordered by this ratio.
+
+![image](https://github.com/user-attachments/assets/346ffe85-867d-4915-8031-51054be72ecb)
+
+This query calculates the total points scored by the team and divides it by the amount of points scored by the player. This shows us how much of the points scored in a game is scored by the player.
+
+7. Query 7 gives us every player from the USA who recived an MVP award.
+
+![image](https://github.com/user-attachments/assets/b5ce974b-cbbe-4660-811f-00b09797ae7c)
+
+We can see what american players get MVP awards.
+
+8. Query 8 gives us the team, city, total points scored by the team, and the average hight of the team players but only those whith 5 or more years experience.
+
+![image](https://github.com/user-attachments/assets/ac340fc0-c7a0-4fcc-a094-ebed85993a38)
+
+This can show us how much height influences points scored, and if teams with taller players do better on average.
+
+
+
+
+
+
+
