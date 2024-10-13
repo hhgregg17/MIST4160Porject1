@@ -6,7 +6,7 @@ Correlated Subquery
 ## Team Members:
 
 1. Spencer Fox [@hhgregg17](https://www.github.com/hhgregg17)
-2. 
+2. Farzaan Hemani [@Frh53839](https://github.com/Frh53839)
 3. 
 4. 
 5. 
