@@ -103,6 +103,8 @@ This query calculates the total points scored by the team and divides it by the 
 
 <img width="1440" alt="Screenshot 2024-10-13 at 9 16 21 PM" src="https://github.com/user-attachments/assets/0fa68e9b-dd74-490d-8bcd-3cbf805ccd30">
 
+This can be useful for larger NBA decisions. When presenting awards or looking at statistics seeing a team's founding date and sorting team's based on that might be important.
+
 8. Query 8 gives us the team, city, total points scored by the team, and the average hight of the team players but only those whith 5 or more years experience.
 
 ![image](https://github.com/user-attachments/assets/ac340fc0-c7a0-4fcc-a094-ebed85993a38)
