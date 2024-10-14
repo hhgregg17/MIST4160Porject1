@@ -62,6 +62,8 @@ Lastly there is a many-to-many relationship between 'Coach' and 'Player' via wea
 
 ## Queries:
 
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/a9406638-2540-430e-a3f0-83fb2051c7c3">
+
 
 1. Query 1 gives us the number of assists and average points scored per game while having more than 5 assists and over an average of 20 points.
 
