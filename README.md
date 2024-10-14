@@ -10,7 +10,7 @@ Correlated Subquery
 3. Abhi Kode [@abikod](https://github.com/abikod)
 4. Samuel Park [@samuelpark8713](https://github.com/samuelpark8713)
 5. Eshaan Jain [@ej46122]
-6. 
+6. Rhea Kakkad [@rhea415 ] (https://github.com/rhea415 ) 
 
 ## Overview:
 
