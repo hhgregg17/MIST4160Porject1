@@ -7,7 +7,7 @@ Correlated Subquery
 
 1. Spencer Fox [@hhgregg17](https://www.github.com/hhgregg17)
 2. Farzaan Hemani [@Frh53839](https://github.com/Frh53839)
-3. 
+3. Abhi Kode [@abikod](https://github.com/abikod)
 4. 
 5. 
 6. 
@@ -110,6 +110,12 @@ We can see what american players get MVP awards.
 ![image](https://github.com/user-attachments/assets/ac340fc0-c7a0-4fcc-a094-ebed85993a38)
 
 This can show us how much height influences points scored, and if teams with taller players do better on average.
+
+9. Query 9 finds all players whose last names start with the letter "S".
+    
+<img width="1440" alt="Screenshot 2024-10-13 at 8 44 08 PM" src="https://github.com/user-attachments/assets/a9b80eeb-014a-460f-a2be-9f2d1c6bbe12">
+
+
 
 
 
