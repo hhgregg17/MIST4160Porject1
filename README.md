@@ -99,11 +99,9 @@ This query grants us insight of where and when players are getting tranferred, s
 
 This query calculates the total points scored by the team and divides it by the amount of points scored by the player. This shows us how much of the points scored in a game is scored by the player.
 
-7. Query 7 gives us every player from the USA who recived an MVP award.
+7. This query retrieves the names of teams that were not founded before the year 2000.
 
-![image](https://github.com/user-attachments/assets/b5ce974b-cbbe-4660-811f-00b09797ae7c)
-
-We can see what american players get MVP awards.
+<img width="1440" alt="Screenshot 2024-10-13 at 9 16 21 PM" src="https://github.com/user-attachments/assets/0fa68e9b-dd74-490d-8bcd-3cbf805ccd30">
 
 8. Query 8 gives us the team, city, total points scored by the team, and the average hight of the team players but only those whith 5 or more years experience.
 
