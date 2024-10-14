@@ -121,6 +121,8 @@ This could be important when considering awards and other nba events. A player's
     
 <img width="1440" alt="Screenshot 2024-10-13 at 8 39 09 PM" src="https://github.com/user-attachments/assets/46682b8d-8687-42f1-9008-042ea87aada4">
 
+This could definitely be important. Height matters a lot in the NBA and having data on the average height on each team could be very useful for statistic sites and coach/management decisions.
+
 
 
 
