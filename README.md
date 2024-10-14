@@ -115,6 +115,12 @@ This can show us how much height influences points scored, and if teams with tal
     
 <img width="1440" alt="Screenshot 2024-10-13 at 8 44 08 PM" src="https://github.com/user-attachments/assets/a9b80eeb-014a-460f-a2be-9f2d1c6bbe12">
 
+This could be important when considering awards and other nba events. A player's last name can often affect where they sit and other aspects of the event so this could be useful.
+
+10. Query 10 calculates the average height of players for each team.
+    
+<img width="1440" alt="Screenshot 2024-10-13 at 8 39 09 PM" src="https://github.com/user-attachments/assets/46682b8d-8687-42f1-9008-042ea87aada4">
+
 
 
 
