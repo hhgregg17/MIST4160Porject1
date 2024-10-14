@@ -8,7 +8,7 @@ Correlated Subquery
 1. Spencer Fox [@hhgregg17](https://www.github.com/hhgregg17)
 2. Farzaan Hemani [@Frh53839](https://github.com/Frh53839)
 3. Abhi Kode [@abikod](https://github.com/abikod)
-4. 
+4. Samuel Park [@samuelpark8713](https://github.com/samuelpark8713)
 5. 
 6. 
 
