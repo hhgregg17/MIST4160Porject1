@@ -1,4 +1,4 @@
-# MIST4610Porject1
+# MIST4610Project1
 
 ## Team Name: 
 Correlated Subquery 
