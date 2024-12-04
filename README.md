@@ -65,23 +65,22 @@ Lastly there is a many-to-many relationship between 'Coach' and 'Player' via wea
 <img width="560" alt="image" src="https://github.com/user-attachments/assets/a9406638-2540-430e-a3f0-83fb2051c7c3">
 
 
-1. Query 1 gives us the number of assists and average points scored per game while having more than 5 assists and over an average of 20 points. This information can provide
-
+1. Query 1 gives us the number of assists and average points scored per game while having more than 5 assists and over an average of 20 points.
 ![image](https://github.com/user-attachments/assets/4fde7824-b62a-478a-921c-d41965f8740d)
 
-These results allows stats analytics determine who are top scorers in the league, this helps with individual player rankings.
+This information can provide NBA teams good information on players who can score at will as well as playmaking for their respective team.
 
 2. Query 2 gives us the total games the lions have won.
 
 ![image](https://github.com/user-attachments/assets/d6905097-dee4-428a-ac0f-4165e0374b1c)
 
-This query can be useful to filter down the games where the lions have performed well as well as seeing how many points were scored and allowed.
+This query can be useful to filter down the games where the lions have performed well as well as seeing how many points were scored and allowed. This can help other teams prepare when playing against the Lions because they can see their statistics during the games they won. They can scout out their weaknesses and capitalize on them.
 
 3. Query 3 gives us the name of a coach, name of their team, and their sart and end date for the team they coached for with the restictions being they coached for more than 10 years and have at least 2 champ wins.
 
 ![image](https://github.com/user-attachments/assets/274b266f-f11e-4533-9a8a-07cdee96f7b8)
 
-This query gives us the best, most experienced coaches in the league.
+This query gives us the best, most experienced coaches in the league. This can help general managers for NBA teams when deciding to hire coaches based on the team's success during the coach's tenure.
 
 4. Query 4 gives us player name and jersey number of players whos position are Forward as well as being injured.
 
@@ -93,13 +92,13 @@ This query is useful for that it gives us players that may have an injury in the
 
 ![image](https://github.com/user-attachments/assets/ac0e9bf8-d63d-45d5-a18f-33e0346d4873)
 
-This query grants us insight of where and when players are getting tranferred, since contracts are private we can only make inferences on what happens behind the scenes.
+This query grants us insight of where and when players are getting tranferred, since contracts are private we can only make inferences on what happens behind the scenes. This data can help the NBA in general keeping records on the trade transactions.
 
 6. Query 6 selects players first and last name, team, location, and calculates a point ratio and is then ordered by this ratio.
 
 ![image](https://github.com/user-attachments/assets/346ffe85-867d-4915-8031-51054be72ecb)
 
-This query calculates the total points scored by the team and divides it by the amount of points scored by the player. This shows us how much of the points scored in a game is scored by the player.
+This query calculates the total points scored by the team and divides it by the amount of points scored by the player. This shows us how much of the points scored in a game is scored by the player. This data can help coaches reevaluate their team to see who their star player is.
 
 7. This query retrieves the names of teams that were not founded before the year 2000.
 
